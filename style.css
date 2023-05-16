@@ -1,0 +1,26 @@
+.demo {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  padding: 5px 0px;
+  background-color: #fca5a5;
+  border: 1px solid #fca5a5;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  cursor: pointer;
+}
+
+.demo-rht {
+  display: flex;
+  background-color: #fca5a5;
+  border: 1px solid #fca5a5;
+}
+
+.flex {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin: 1px;
+}
